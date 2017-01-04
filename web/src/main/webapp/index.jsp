@@ -8,12 +8,12 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Rather Simple Example Webpage</title>
+    <title>JSP Example Webpage</title>
 </head>
 <body>
-  <h1>Rather Simple Example Web Page</h1>
+  <h1>JSP Example Web Page</h1>
   <p>
-    This is a really quite simple example web page on a JSP.
+    This example web page on a JSP should update automatically via Jenkins.
   </p>
 </body>
 </html>
