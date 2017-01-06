@@ -9,19 +9,19 @@
 <html>
 <head>
     <title>JSP Example Webpage</title>
-<meta http-equiv="refresh" content="600">
+<meta http-equiv="refresh" content="60">
 </head>
 <body>
   <h1>JSP Example Web Page</h1>
   <p>
   <h2>Automated Dev Pipelines Are Cool</h2>
-    This is a very simple example web page on a JSP.
-=======
+    This is a very simple example web page on a JSP.<br>
+=======<br>
     This example web page on a JSP should update automatically via Jenkins.
     Like a boss.
   </p>
-
-  <p>
-  Meta refresh is a method of instructing a web browser to automatically refresh the current web page or frame after a given time interval, using an HTML meta element with the http-equiv parameter set to "refresh" and a content parameter giving the time interval in seconds. It is also possible to instruct the browser to fetch a different URL when the page is refreshed, by including the alternative URL in the content parameter. By setting the refresh time interval to zero (or a very low value), meta refresh can be used as a method of URL redirection. Source: <A HREF="https://en.wikipedia.org/wiki/Meta_refresh">Wikipedia</a></P>
+<p>Another benefit of Maven is the reliance on widely-shared Maven plugins. Everyone uses the Maven Surefire plugin for unit testing, and if someone adds support for a new unit testing framework, you can gain new capabilities in your own build by just incrementing the version of a particular Maven plugin in your project’s POM.</p>
+ <p>
+<A HREF="https://en.wikipedia.org/wiki/Meta_refresh">Wikipedia for Meta-Refresh</a></P>
 </body>
 </html>
