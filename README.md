@@ -5,6 +5,6 @@ Java (Maven) application for tracking time on the job
 
 This purpose of this project is to show how to use Maven and Jenkins together.
 
-Updates, 
+Updates, and more updates.
 
-and more updates
+This is a change to trigger a Jenkins build.
