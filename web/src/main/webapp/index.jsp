@@ -22,6 +22,6 @@
   </p>
 
   <p>
-  Meta refresh is a method of instructing a web browser to automatically refresh the current web page or frame after a given time interval, using an HTML meta element with the http-equiv parameter set to "refresh" and a content parameter giving the time interval in seconds. It is also possible to instruct the browser to fetch a different URL when the page is refreshed, by including the alternative URL in the content parameter. By setting the refresh time interval to zero (or a very low value), meta refresh can be used as a method of URL redirection. Source: https://en.wikipedia.org/wiki/Meta_refresh</P>
+  Meta refresh is a method of instructing a web browser to automatically refresh the current web page or frame after a given time interval, using an HTML meta element with the http-equiv parameter set to "refresh" and a content parameter giving the time interval in seconds. It is also possible to instruct the browser to fetch a different URL when the page is refreshed, by including the alternative URL in the content parameter. By setting the refresh time interval to zero (or a very low value), meta refresh can be used as a method of URL redirection. Source: <A HREF="https://en.wikipedia.org/wiki/Meta_refresh">Wikipedia</a></P>
 </body>
 </html>
