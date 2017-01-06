@@ -17,9 +17,11 @@
   <h2>Automated Dev Pipelines Are Cool</h2>
     This is a very simple example web page on a JSP.<br>
 =======<br>
-    This example web page on a JSP should update automatically via Jenkins.
-    Like a boss.
+    This example web page on a JSP should update automatically via Jenkins.</p>
+<p>    Like a boss.
   </p>
+<hr>
+<h2>Maven notes</h2>
 <p>Another benefit of Maven is the reliance on widely-shared Maven plugins. Everyone uses the Maven Surefire plugin for unit testing, and if someone adds support for a new unit testing framework, you can gain new capabilities in your own build by just incrementing the version of a particular Maven plugin in your project’s POM.</p>
  <p>
 <A HREF="https://en.wikipedia.org/wiki/Meta_refresh">Wikipedia for Meta-Refresh</a></P>
