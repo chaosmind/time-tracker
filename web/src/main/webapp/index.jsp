@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>JSP Example Webpage</title>
+<meta http-equiv="refresh" content="600">
 </head>
 <body>
   <h1>JSP Example Web Page</h1>
