@@ -13,6 +13,7 @@
 <body>
   <h1>Super Simple Example Web Page</h1>
   <p>
+    LOCAL CHANGE MADE FROM GIT-AT-COMMAND-LINE
     This is a very simple example web page on a JSP.
   </p>
 </body>
