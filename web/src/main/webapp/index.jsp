@@ -13,12 +13,11 @@
 <body>
   <h1>JSP Example Web Page</h1>
   <p>
-<<<<<<< HEAD
-    LOCAL CHANGE MADE FROM GIT-AT-COMMAND-LINE
+  <h2>Automated Dev Pipelines Are Cool</h2>
     This is a very simple example web page on a JSP.
 =======
     This example web page on a JSP should update automatically via Jenkins.
->>>>>>> 2d5e97043b61ba75b5048b666a1a7d66d57b0170
+    Like a boss.
   </p>
 </body>
 </html>
